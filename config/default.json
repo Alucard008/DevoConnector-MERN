@@ -1,4 +1,6 @@
 {
     "mongoURI" :"mongodb+srv://Abdullah:golomolo9202@devconnector.gssf3ms.mongodb.net/?retryWrites=true&w=majority",
-    "jwtSecretKey":"MyToken"
+    "jwtSecretKey":"MyToken",
+    "githubClientId":"de37cd4a1e7f57ebb676",
+    "githubSecret":"730148b8a0470d487a99dff93021adca6de00624"
 }
